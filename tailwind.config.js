@@ -378,6 +378,9 @@ module.exports = {
         200: "200",
         250: "250",
       },
+      boxShadow: {
+        "3xl": "  1px 0px 39px -3px rgba(0,0,0,0.75);",
+      },
     },
   },
   plugins: [],
